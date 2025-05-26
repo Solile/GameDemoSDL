@@ -1,12 +1,6 @@
-# GameDemoSDL
-using C++ with SDL to develop Games
+# C++游戏开发 + SDL
+## 《拼好饭传奇》
 
-All of these game demos are learning and developing from an Upper in Bilibili whose UID is 2586450 named Voidmatrix.
+> from Voidmatrix in Bilibili  [BV1wWCJY3EEJ](https://www.bilibili.com/video/BV1wWCJY3EEJ)
 
-The games are in different branches.
-
-- Project1 是 《生化危鸡》
-  - 鼠标射击游戏
-
-- Project2 是 《拼好饭传奇》
-  - 类沙威玛传奇游戏
+拼好饭传奇是一款类沙威玛传奇类型的游戏
